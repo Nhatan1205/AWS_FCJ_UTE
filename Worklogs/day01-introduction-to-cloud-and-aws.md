@@ -1,7 +1,6 @@
 # Introduction to Cloud and AWS
 
 ## 1. What is Cloud computing?
-
 Cloud computing is the work that we distribute IT resources on demand over the Internet with pay-as-you-go policy. This means, instead of building systems such as servers, networking devices, etc. by ourselves, we just need to send a request to providers, and say we need a server with this configuration, they will provide us with a virtual server and the info to use it.
 
 ## 2. Advantages of Cloud computing
@@ -37,4 +36,4 @@ Cloud computing is the work that we distribute IT resources on demand over the I
 
 - **AWS Command Line Interface (CLI)**: Open-source tool that allows us to use AWS services via terminal or command prompt.
 
-- **AWS SDK**: Simplifies the use of AWS services for applications by providing a consistent and familiar set of libraries for development teams.
+- **AWS SDK**: Simplifies the use of AWS services for applications by providing a consistent and familiar set of libraries for development teams. fghfghf
